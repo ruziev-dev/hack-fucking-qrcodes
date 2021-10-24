@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hack-fucking-qrcodes/static/js/main.f28facfe.chunk.js",
+    "main.js.map": "/hack-fucking-qrcodes/static/js/main.f28facfe.chunk.js.map",
+    "runtime-main.js": "/hack-fucking-qrcodes/static/js/runtime-main.c1704e57.js",
+    "runtime-main.js.map": "/hack-fucking-qrcodes/static/js/runtime-main.c1704e57.js.map",
+    "static/js/2.e681c8a8.chunk.js": "/hack-fucking-qrcodes/static/js/2.e681c8a8.chunk.js",
+    "static/js/2.e681c8a8.chunk.js.map": "/hack-fucking-qrcodes/static/js/2.e681c8a8.chunk.js.map",
+    "static/js/3.9d981a11.chunk.js": "/hack-fucking-qrcodes/static/js/3.9d981a11.chunk.js",
+    "static/js/3.9d981a11.chunk.js.map": "/hack-fucking-qrcodes/static/js/3.9d981a11.chunk.js.map",
+    "index.html": "/hack-fucking-qrcodes/index.html",
+    "static/js/2.e681c8a8.chunk.js.LICENSE.txt": "/hack-fucking-qrcodes/static/js/2.e681c8a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1704e57.js",
+    "static/js/2.e681c8a8.chunk.js",
+    "static/js/main.f28facfe.chunk.js"
+  ]
+}
